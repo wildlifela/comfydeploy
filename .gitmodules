@@ -1,6 +1,6 @@
 [submodule "apps/api"]
 	path = apps/api
-	url = https://github.com/wildlife/comfydeploy-api
+	url = https://github.com/wildlifela/comfydeploy-api
 [submodule "apps/app"]
 	path = apps/app
-	url = https://github.com/wildlife/comfydeploy-app
+	url = https://github.com/wildlifela/comfydeploy-app
